@@ -34,3 +34,7 @@ font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 cursor: pointer;
 transition: 0.4s;
 }
+
+section nav ul li:hover{
+    color: rgb(109, 114, 104)
+}
